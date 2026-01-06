@@ -16,8 +16,8 @@
   <a href="https://twitter.com/harikrishnan">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/hari_krishnan.exe/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://discord.com/users/1389513826126270474" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-potatoet_wizard_96-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
   <a href="https://leetcode.com/u/6Ayl6FkLxZ/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
