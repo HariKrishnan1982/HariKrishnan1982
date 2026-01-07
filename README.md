@@ -4,6 +4,25 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rbTd2MDhubGV1ZHJ1czdpcDZ1aWp6d2pvNHR3ZHppbTNqb3BxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8bzCgnzMVgWs/giphy.gif" width="250" />
 </div>
+<table>
+<tr>
+<td width="65%" valign="top">
+
+<h2>I'm a Computer Science and Engineering Student</h2>
+
+- 👨‍💻 I’m currently working on **web development technologies** like JavaScript, React, etc.  
+- 📚 I’m currently learning **Frontend and Backend technologies** 😄  
+- 💪 Future Goals: Learn more technologies – never stop creating new ideas.  
+- ⚡ Fun fact: I love to play **pool and snooker** 🎱  
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="220"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <br>
