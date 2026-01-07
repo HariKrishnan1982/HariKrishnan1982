@@ -6,7 +6,7 @@
 <tr>
 <td width="65%" valign="top">
 
-<h2>I'm a Computer Science and Engineering Student</h2>
+<h2>I'm a Computer Science and Engineering Student<br>Specilization in Cyber Security</h2>
 
 - 👨‍💻 I’m currently working on **web development technologies** like JavaScript, React, etc.  
 - 📚 I’m currently learning **Frontend and Backend technologies** 😄  
