@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Hi+%F0%9F%91%8B%2C+I'm+HariKrishnan;Nice+to+meet+you+%F0%9F%98%8E" />
 </div>
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rbTd2MDhubGV1ZHJ1czdpcDZ1aWp6d2pvNHR3ZHppbTNqb3BxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8bzCgnzMVgWs/giphy.gif" width="250" />
-</div>
+
 <table>
 <tr>
 <td width="65%" valign="top">
@@ -13,7 +11,7 @@
 - 👨‍💻 I’m currently working on **web development technologies** like JavaScript, React, etc.  
 - 📚 I’m currently learning **Frontend and Backend technologies** 😄  
 - 💪 Future Goals: Learn more technologies – never stop creating new ideas.  
-- ⚡ Fun fact: I love to play **pool and snooker** 🎱  
+- ⚡ Fun fact: I love to play **BASKET BALL AND CYCLING** 🎱  
 
 </td>
 <td width="35%" align="center">
@@ -23,7 +21,9 @@
 </td>
 </tr>
 </table>
-
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rbTd2MDhubGV1ZHJ1czdpcDZ1aWp6d2pvNHR3ZHppbTNqb3BxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8bzCgnzMVgWs/giphy.gif" width="250" />
+</div>
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
