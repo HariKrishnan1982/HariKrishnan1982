@@ -1,13 +1,15 @@
+<!-- TYPING HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Hi+👋,+I'm+HariKrishnan;Nice+to+meet+you+😎" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Hi+👋,+I'm+HariKrishnan;Computer+Science+%7C+Cyber+Security" />
 </div>
 
-<br>
+<br><br>
 
 <!-- ABOUT SECTION -->
-<table>
+<table width="100%">
 <tr>
-<td width="65%" valign="middle" style="padding:20px;">
+
+<td width="60%" valign="middle">
 
 <h2>I'm a Computer Science and Engineering Student  
 <br>Specialization in Cyber Security</h2>
@@ -19,41 +21,33 @@
 
 </td>
 
-<td width="35%" align="center" valign="middle">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="220"/>
+<td width="40%" align="center" valign="middle">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="220"/>
 </td>
+
 </tr>
 </table>
 
 <br><br>
+<hr>
+<br>
 
-<!-- TECH STACK SECTION -->
-<table>
+<!-- TECH STACK -->
+<h2>🛠️ Tech Stack</h2>
+
+<table width="100%">
 <tr>
 
-<!-- GIF SIDE -->
-<td width="35%" align="center" valign="middle">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rbTd2MDhubGV1ZHJ1czdpcDZ1aWp6d2pvNHR3ZHppbTNqb3BxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8bzCgnzMVgWs/giphy.gif" height="230"/>
+<!-- LEFT : GIF -->
+<td width="40%" align="center" valign="middle">
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rbTd2MDhubGV1ZHJ1czdpcDZ1aWp6d2pvNHR3ZHppbTNqb3BxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8bzCgnzMVgWs/giphy.gif" 
+    width="260"
+  />
 </td>
 
-<!-- TECH STACK SIDE -->
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-
-<!-- LEFT : GIF BOX -->
-<td width="35%" align="center" valign="middle">
-
-<div>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rbTd2MDhubGV1ZHJ1czdpcDZ1aWp6d2pvNHR3ZHppbTNqb3BxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8bzCgnzMVgWs/giphy.gif" 
-       height="220"/>
-</div>
-
-</td>
-
-<!-- RIGHT : TECH STACK BOX -->
-<td width="65%" valign="middle">
-
-<div>
+<!-- RIGHT : STACK -->
+<td width="60%" valign="middle">
 
 <h3>💻 Languages</h3>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -75,15 +69,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-</div>
-
 </td>
 </tr>
 </table>
 
 <br><br>
+<hr>
+<br>
 
-<!-- SOCIAL LINKS -->
+<!-- SOCIALS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -104,8 +98,7 @@
 
 <br><br>
 
-<hr>
-
+<!-- VIEWS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harikrishnanrathinam&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=harikrishnanrathinam&style=flat-square&color=blue"/>
 </div>
