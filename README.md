@@ -41,9 +41,6 @@
 </tr>
 </table>
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rbTd2MDhubGV1ZHJ1czdpcDZ1aWp6d2pvNHR3ZHppbTNqb3BxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8bzCgnzMVgWs/giphy.gif" width="250" />
-</div>
-<div align="center">
   <br>
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
