@@ -57,11 +57,9 @@
 </div>
 <br/>
 <hr>
-
 <footer align="center" style="margin-top: 20px;">
   <hr>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=harikrishnanrathinam&style=flat-square&color=blue" alt="Profile views"/>
   </div>
-  
 </footer>
