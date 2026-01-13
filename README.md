@@ -37,6 +37,27 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rbTd2MDhubGV1ZHJ1czdpcDZ1aWp6d2pvNHR3ZHppbTNqb3BxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8bzCgnzMVgWs/giphy.gif" width="250" />
 </div>
+<details>
+<summary>⚙️ Current Mission & Training</summary>
+
+<br>
+
+🛡️ Strengthening blue team & SOC foundations  
+🌐 Deepening networking, Linux, and system fundamentals  
+🏗️ Building full-stack and automation projects  
+🏆 Active in CTFs (Web, OSINT, Forensics – beginner mix)  
+🧪 Preparing to build security-focused tools next semester  
+
+<br>
+
+<b>Training mindset:</b> Learn → Build → Break → Defend → Repeat
+
+<br>
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="350"/>
+
+</details>
+
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
