@@ -18,7 +18,8 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 
 </td>
 <td width="35%" align="center">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlobDFsMTl0aTA1MHVlaWw4OTZkMzBjZmdnN25wYmF6ZjRhcXI2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
+
 </td>
 </tr>
 </table>
