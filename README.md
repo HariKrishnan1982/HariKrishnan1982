@@ -27,7 +27,6 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 ---
 
 ## 🚀 Featured Projects
-*(This section is IMPORTANT — add links as you build)*
 
 - 🔐 **Password Strength Analyzer** – Checks password security & entropy  
 - 🌐 **Secure Web App** – Authentication system with security best practices  
