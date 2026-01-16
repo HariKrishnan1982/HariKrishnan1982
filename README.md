@@ -83,9 +83,7 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300"/>
 
 </details>
-
 ---
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -105,9 +103,7 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </div>
-
 ---
-
 <footer align="center">
   <img src="https://komarev.com/ghpvc/?username=harikrishnanrathinam&style=flat-square&color=blue" />
 </footer>
