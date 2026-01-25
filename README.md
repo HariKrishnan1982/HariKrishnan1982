@@ -81,7 +81,6 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 </details>
 ---
 ## 🌐 Connect With Me
-
 <div align="center">
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
