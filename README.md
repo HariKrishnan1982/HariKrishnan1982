@@ -10,7 +10,7 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 
 - 👨‍💻 Currently working on **Web Development & Security-based projects**
 - 📚 Learning **Frontend, Backend & Core Cyber Security foundations**
-- 🛡️ Interests: Web Security, Blue Team, SOC, Automation
+- 🛡️ Interests: Web Security, Blue Team, SOC, Automation, Machine Learning
 - 💪 Future goal: Become a high-impact cyber professional and tool builder  
 - ⚡ Fun fact: I play **Basketball** and love **Cycling**
 
