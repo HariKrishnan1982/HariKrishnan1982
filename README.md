@@ -71,12 +71,6 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnanrathinam&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnanrathinam&theme=tokyonight&hide_border=true" />
-</div>
-
-> ⚠️ Replace `harikrishnanrathinam` in the stat card URLs above if that isn't your actual GitHub username — these cards only render correctly for a real, public account.
-
 ---
 
 <details>
