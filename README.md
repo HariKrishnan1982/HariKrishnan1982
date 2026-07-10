@@ -26,20 +26,13 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack & 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🔐 **Password Strength Analyzer** | Checks password security & entropy |
-| 🌐 **Secure Web App** | Authentication system with security best practices |
-| 🛡️ **Log Analyzer Tool** | Detects suspicious activity |
-| 🤖 **Automation Scripts** | Linux + Python based productivity tools |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
+### 🛠️ Tech Stack
 
 **Languages**
 <br>
@@ -60,7 +53,21 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🔐 **Password Strength Analyzer** | Checks password security & entropy |
+| 🌐 **Secure Web App** | Authentication system with security best practices |
+| 🛡️ **Log Analyzer Tool** | Detects suspicious activity |
+| 🤖 **Automation Scripts** | Linux + Python based productivity tools |
+
+</td>
+</tr>
+</table>
 
 ---
 
