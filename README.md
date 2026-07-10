@@ -91,9 +91,6 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
   <a href="https://twitter.com/harikrishnan">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/1389513826126270474">
-    <img src="https://img.shields.io/badge/Discord-potatoet_wizard_96-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
   <a href="https://leetcode.com/u/6Ayl6FkLxZ/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
