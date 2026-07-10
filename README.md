@@ -67,8 +67,12 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harikrishnanrathinam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnanrathinam&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HariKrishnan1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishnan1982&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariKrishnan1982&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -111,5 +115,5 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 <br>
 
 <footer align="center">
-  <img src="https://komarev.com/ghpvc/?username=harikrishnanrathinam&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=HariKrishnan1982&style=flat-square&color=blue" />
 </footer>
