@@ -1,10 +1,69 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Hi+%F0%9F%91%8B%2C+I'm+HariKrishnan;Nice+to+meet+you+%F0%9F%98%8E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Hi+%F0%9F%91%8B%2C+I'm+HariKrishnan;a.k.a+P4tchW0rk;Nice+to+meet+you+%F0%9F%98%8E" />
 </div>
 
+<br>
+
+<!-- ============ NEOFETCH-STYLE TERMINAL BLOCK ============ -->
 <table>
 <tr>
-<td width="65%" valign="top">
+<td valign="top">
+
+```
+                    ..:::::::::::..
+                .:::::::::::::::::::.
+             .:::::::'       `:::::::.
+           .::::::'     ##      `::::::.
+          ::::::'      ####       `::::::
+         ::::::       ##  ##        ::::::
+        ::::::       ##    ##        ::::::
+        :::::'      ##  ()  ##       `:::::
+        ::::::       ##    ##        ::::::
+         ::::::       ##  ##        ::::::
+          ::::::.      ####       .::::::
+           `::::::.     ##      .::::::'
+             `:::::::.       .:::::::'
+                `:::::::::::::::::::'
+                    `':::::::::'`
+
+        [ P4tchW0rk @ Kali Linux ]
+```
+
+</td>
+<td valign="top" width="60%">
+
+```
+HariKrishnan ~ P4tchW0rk
+-------------------------------------------
+OS ..................... Kali Linux (Live USB Persistence)
+Rig ..................... i3 7th Gen · 12GB RAM · 256GB SSD
+Role .................... CSE Student — Cyber Security
+IDE ..................... VS Code / Kali Terminal
+
+Languages.Programming ... C, C++, Python, JavaScript
+Languages.Frontend ...... HTML5, CSS3, React
+Languages.Backend ....... Node.js, Git, Linux
+
+Focus.Security .......... Web Security, VAPT, Blue Team / SOC
+Focus.Other .............. Automation, Machine Learning
+Hobbies .................. Basketball, Cycling
+
+Contact -
+Email ..................... varunahari2428@gmail.com
+LinkedIn ................. varun-r-9b6417331
+LeetCode ................ 6Ayl6FkLxZ
+Twitter ................... @harikrishnan
+
+GitHub Stats -
+Profile ................... HariKrishnan1982
+Live stats rendered below ⬇
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 ## I'm a Computer Science and Engineering Student
 ### Specializing in Cyber Security
@@ -17,12 +76,9 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 - 💪 Future goal: Become a high-impact cyber professional and tool builder
 - ⚡ Fun fact: I play **Basketball** and love **Cycling**
 
-</td>
-<td width="35%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlobDFsMTl0aTA1MHVlaWw4OTZkMzBjZmdnN25wYmF6ZjRhcXI2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlobDFsMTl0aTA1MHVlaWw4OTZkMzBjZmdnN25wYmF6ZjRhcXI2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="260"/>
+</div>
 
 ---
 
@@ -52,6 +108,12 @@ CSE student specializing in Cyber Security, focused on building, breaking, and d
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+**Security**
+<br>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
