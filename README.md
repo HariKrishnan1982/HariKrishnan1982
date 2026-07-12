@@ -1,10 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=root%40P4tchW0rk%3A~%24+whoami;HariKrishnan+aka+P4tchW0rk;root%40P4tchW0rk%3A~%24+cat+about.txt" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=P4tchW0rk&fontColor=00FF41&fontSize=55&fontAlignY=40&animation=fadeIn&desc=root@kali:~%23%20whoami&descAlignY=62&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=root%40P4tchW0rk%3A~%24+whoami;HariKrishnan+aka+P4tchW0rk;root%40P4tchW0rk%3A~%24+id;uid%3D0(root)+groups%3D(cybersecurity%2Cdev);root%40P4tchW0rk%3A~%24+cat+about.txt" />
+
 </div>
 
-<br>
+<!-- ================= BOOT SEQUENCE ================= -->
+<div align="center">
 
-<!-- ================= NEOFETCH BLOCK ================= -->
+```
+[  OK  ] Started P4tchW0rk Identity Service
+[  OK  ] Mounted /dev/curiosity
+[  OK  ] Loaded module: web_security.ko
+[  OK  ] Loaded module: blue_team.ko
+[  OK  ] Loaded module: automation.ko
+[  OK  ] Loaded module: machine_learning.ko
+[  OK  ] Reached target Cyber Security Student
+[  OK  ] System ready.
+```
+
+</div>
+
+---
+
+<!-- ================= FIGLET BANNER + NEOFETCH ================= -->
 <table>
 <tr>
 <td valign="top">
@@ -33,6 +53,12 @@
 <td valign="top" width="60%">
 
 ```
+    ____  __ ________________  ___       ______  ____  __ __
+   / __ \/ // /_  __/ ____/ / / / |     / / __ \/ __ \/ //_/
+  / /_/ / // /_/ / / /   / /_/ /| | /| / / / / / /_/ / ,<
+ / ____/__  __/ / / /___/ __  / | |/ |/ / /_/ / _, _/ /| |
+/_/      /_/ /_/  \____/_/ /_/  |__/|__/\____/_/ |_/_/ |_|
+
 HariKrishnan ~ P4tchW0rk
 -------------------------------------------
 OS ..................... Kali Linux (Live USB Persistence)
@@ -47,12 +73,6 @@ Languages.Backend ....... Node.js, Git, Linux
 Focus.Security .......... Web Security, VAPT, Blue Team / SOC
 Focus.Other ............. Automation, Machine Learning
 Hobbies ................. Basketball, Cycling
-
-Contact -
-Email ................... varunahari2428@gmail.com
-LinkedIn ................ varun-r-9b6417331
-LeetCode ................ 6Ayl6FkLxZ
-Twitter .................. @harikrishnan
 ```
 
 </td>
@@ -75,7 +95,7 @@ building, breaking, and defending systems.
 
 ---
 
-### `root@P4tchW0rk:~$ ./tech_stack.sh`
+### `root@P4tchW0rk:~$ ./tech_stack.sh --verbose`
 
 ```
 [ languages ]
@@ -92,6 +112,24 @@ building, breaking, and defending systems.
 
 [ security ]
   Burp Suite · OWASP Top 10 · VAPT · Manual recon
+```
+
+---
+
+### `root@P4tchW0rk:~$ nmap -sV -p- skills.local`
+
+```
+Starting Nmap scan on skills.local
+Discovered open ports:
+
+PORT      STATE   SERVICE           VERSION
+22/tcp    open    web-security      manual-recon, OWASP-top-10
+443/tcp   open    vapt              burpsuite, wpscan, hydra
+1337/tcp  open    automation        bash, python-scripting
+8080/tcp  open    blue-team         soc-fundamentals, log-analysis
+9001/tcp  open    machine-learning  python, scikit-learn
+
+Nmap done: skills fully enumerated, no false positives.
 ```
 
 ---
@@ -114,12 +152,16 @@ drwxr-xr-x  Roll_                       CSS-based project
 ### `root@P4tchW0rk:~$ neofetch --stats`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HariKrishnan1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishnan1982&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HariKrishnan1982&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishnan1982&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariKrishnan1982&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariKrishnan1982&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HariKrishnan1982&theme=matrix&no-frame=true&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -146,25 +188,29 @@ mindset: learn -> build -> break -> defend -> repeat
 
 <div align="center">
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
   </a>
   <a href="mailto:varunahari2428@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
   </a>
   <a href="https://twitter.com/harikrishnan">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00FF41"/>
   </a>
   <a href="https://leetcode.com/u/6Ayl6FkLxZ/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=HariKrishnan1982&style=flat-square&color=00FF41" />
+<img src="https://komarev.com/ghpvc/?username=HariKrishnan1982&style=for-the-badge&color=00FF41&label=SESSION+VIEWS" />
 </div>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" />
+
 <div align="center">
-<sub>root@P4tchW0rk:~$ <span>█</span></sub>
+<sub>root@P4tchW0rk:~$ exit</sub>
 </div>
