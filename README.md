@@ -119,19 +119,6 @@ drwxr-xr-x  Roll_                       CSS-based project
 
 ---
 
-### `root@P4tchW0rk:~$ neofetch --stats`
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HariKrishnan1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishnan1982&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariKrishnan1982&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
-
 ### `root@P4tchW0rk:~$ cat training_log.txt`
 
 ```
