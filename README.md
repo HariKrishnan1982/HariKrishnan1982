@@ -159,7 +159,6 @@ mindset: learn -> build -> break -> defend -> repeat
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HariKrishnan1982&style=flat-square&color=00FF41" />
 </div>
-
 <div align="center">
 <sub>root@P4tchW0rk:~$ <span>█</span></sub>
 </div>
