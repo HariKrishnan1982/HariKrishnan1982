@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=root%40P4tchW0rk%3A~%24+whoami;HariKrishnan+aka+P4tchW0rk;root%40P4tchW0rk%3A~%24+cat+about.txt" />
 </div>
@@ -8,46 +7,40 @@
 <!-- ================= NEOFETCH BLOCK ================= -->
 <table>
 <tr>
-<td valign="top" width="45%">
-
-
-```
-
-███████████████████████████████████
-████████▀▀▀▀▀▀░░░░░░░▀▀▀▀▀▀████████
-██████▀░░░░░░░░░░░░░░░░░░░░░▀██████
-█████│░░░░░░░░░░░░░░░░░░░░░░░│█████
-████▌│░░░░░░░░░░░░░░░░░░░░░░░│▐████
-████░└┐░░░░░░░░░░░░░░░░░░░░░┌┘░████
-████░░└┐░░░░░░░░░░░░░░░░░░░┌┘░░████
-████░░┌┘▄▄▄▄▄▄▄░░░░░▄▄▄▄▄▄▄└┐░░████
-████▌░│████████▌░░░▐████████│░▐████
-█████░│▐████▀▀░░▄▄░░▀▀████▌│░█████
-████▀─┘░░░░░░░░▐██▌░░░░░░░░└─▀████
-████▄░░░░▄▄▄▓▓░░▀██▀░░▓▓▄▄▄░░░░▄████
-██████▄─┘███▌░░░░░░░░▐███└─▄██████
-███████░░▐██─┬┬┬┬┬┬┬┬─██▌░░███████
-██████▌░░░▀┬┼┼┼┼┼┼┼┼┼┼┬▀░░░▐██████
-███████▄░░░└┴┴┴┴┴┴┴┴┴┘░░░▄███████
-█████████▄░░░░░░░░░░░░░▄█████████
-███████████▄▄▄▄▄▄▄▄▄▄▄███████████
-███████████████████████████████████
+<td valign="top" width="35%">
 
 ```
-    [ P4tchW0rk @ Kali Linux ]
+█───────────────────███─────────────█
+█─────────────███████████████───────█
+█──────────█████████████████████────█
+█─────────███████████████████████───█
+█────────█████████████████████████──█
+█────────█████████████████████████──█ 
+█───────██████████████████████████──█
+█───────██████████████████████████──█
+█──────███████████████████████████──█
+█────███████████████████████────█───█
+█──███████████████████████────▄█─█──█
+████████████████████████▒▒────█──█──█ 
+█──────█───▒▒███▒▒───▒▒██▒▒───██─█──█
+█──────█────▒▒▒▒▒─────▒▒▒▒────███───█
+█──────█──────────█───────────███───█
+█───────██────────██─────────███────█
+█────────██────────────────████─────█
+█─────────██──────██──────████──────█ 
+█──────────███──────────█████───────█
+█────────────██───██───████─────────█
+█─────────────▀▄▄████▄███───────────█
 
-```
-
+  [ P4tchW0rk @ Kali Linux ]
 ```
 
 </td>
-<td valign="top" width="55%">
-
+<td valign="top" width="65%">
 
 ```
-
-## HariKrishnan ~ P4tchW0rk
-
+HariKrishnan ~ P4tchW0rk
+-------------------------------------------
 OS ..................... Kali Linux (Live USB Persistence)
 Rig ..................... i3 7th Gen · 12GB RAM · 256GB SSD
 Role .................... CSE Student — Cyber Security
@@ -66,7 +59,6 @@ Email ................... varunahari2428@gmail.com
 LinkedIn ................ varun-r-9b6417331
 LeetCode ................ 6Ayl6FkLxZ
 Twitter .................. @harikrishnan
-
 ```
 
 </td>
@@ -77,56 +69,47 @@ Twitter .................. @harikrishnan
 
 ### `root@P4tchW0rk:~$ cat mission.txt`
 
-
 ```
-
 CSE student specializing in Cyber Security, focused on
 building, breaking, and defending systems.
 
-> Currently working on Web Development & Security-based projects
-> Learning Frontend, Backend & Core Cyber Security foundations
-> Interests: Web Security, Blue Team, SOC, Automation, ML
-> Goal: become a high-impact cyber professional and tool builder
-
+ > Currently working on Web Development & Security-based projects
+ > Learning Frontend, Backend & Core Cyber Security foundations
+ > Interests: Web Security, Blue Team, SOC, Automation, ML
+ > Goal: become a high-impact cyber professional and tool builder
 ```
 
 ---
 
 ### `root@P4tchW0rk:~$ ./tech_stack.sh`
 
-
 ```
-
 [ languages ]
-C            ██████████░░░░░░░░  comfortable
-C++          ██████████░░░░░░░░  comfortable
-Python       ████████████░░░░░░  strong
-JavaScript   ████████░░░░░░░░░░  building
+  C            ██████████░░░░░░░░  comfortable
+  C++          ██████████░░░░░░░░  comfortable
+  Python       ████████████░░░░░░  strong
+  JavaScript   ████████░░░░░░░░░░  building
 
 [ frontend ]
-HTML5 · CSS3 · React
+  HTML5 · CSS3 · React
 
 [ backend / tooling ]
-Node.js · Git · Linux · Kali Linux
+  Node.js · Git · Linux · Kali Linux
 
 [ security ]
-Burp Suite · OWASP Top 10 · VAPT · Manual recon
-
+  Burp Suite · OWASP Top 10 · VAPT · Manual recon
 ```
 
 ---
 
 ### `root@P4tchW0rk:~$ ls -la ./projects/`
 
-
 ```
-
 drwxr-xr-x  Cookie_Autopsy              Chrome ext — cookie privacy classifier & risk scoring
 drwxr-xr-x  CommentAnalyzer-extension   Real-time sentiment analysis (YT/Reddit/Amazon/Flipkart)
 drwxr-xr-x  Platen                      Dart-based document scanner
 drwxr-xr-x  P4tchW0rk-s_Tools-          Shell-based security & automation toolset
 drwxr-xr-x  Roll_                       CSS-based project
-
 ```
 
 **[links]**
@@ -144,9 +127,7 @@ drwxr-xr-x  Roll_                       CSS-based project
 
 ### `root@P4tchW0rk:~$ cat training_log.txt`
 
-
 ```
-
 [x] Strengthening blue team & SOC foundations
 [x] Deepening networking, Linux, and system fundamentals
 [x] Building full-stack and automation projects
@@ -154,7 +135,6 @@ drwxr-xr-x  Roll_                       CSS-based project
 [ ] Building security-focused tools
 
 mindset: learn -> build -> break -> defend -> repeat
-
 ```
 
 ---
@@ -184,5 +164,3 @@ mindset: learn -> build -> break -> defend -> repeat
 <div align="center">
 <sub>root@P4tchW0rk:~$ <span>█</span></sub>
 </div>
-
-```
