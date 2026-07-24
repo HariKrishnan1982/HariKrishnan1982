@@ -7,14 +7,20 @@
 <!-- ================= NEOFETCH BLOCK ================= -->
 <table>
 <tr>
-<td valign="top" align="center">
+<td valign="middle" align="center" width="35%">
 
-<img src="https://cdn.simpleicons.org/kalilinux/00FF41" width="180"/>
+<br>
+
+<img src="https://cdn.simpleicons.org/kalilinux/00FF41" width="130"/>
+
+<br>
 
 **[ P4tchW0rk @ Kali Linux ]**
 
+<br>
+
 </td>
-<td valign="top" width="60%">
+<td valign="top" width="65%">
 
 ```
 HariKrishnan ~ P4tchW0rk
