@@ -151,7 +151,6 @@ mindset: learn -> build -> break -> defend -> repeat
 ---
 
 ### `root@P4tchW0rk:~$ cat contact.txt`
-
 <div align="center">
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
@@ -166,9 +165,7 @@ mindset: learn -> build -> break -> defend -> repeat
     <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
 </div>
-
 <br>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HariKrishnan1982&style=flat-square&color=00FF41" />
 </div>
