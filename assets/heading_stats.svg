@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="30" viewBox="0 0 640 30" role="img" aria-label="stats">
-  <style type="text/css"><![CDATA[
-    @font-face { font-family: 'HeadFont'; src: url('data:font/woff2;base64,d09GMgABAAAAAAMkAA4AAAAABfgAAALQAAJN0wAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmAARBEICoIgghYBNgIkAwwLDAAEIAWEJgcgG+0EUZTuxSLAz4KcjD6VOK7kx2tqDkSUiLa40Iv8eIkH913j4f/H9b/PnZlHpPet1Q2m7yaFKocKMETP/7+fu9sQbyZzl/exUPDQyYQMjUMyC43QcIOrsEHl9UUCkYkmB5xhor9FcSLazf/N9Gdh4G1MLOOeL1v0o7E17UVj3QFNgQNbgxoW8Amd2IEdiB+UG4MeesCImXJzYm8SKAMkIWSEQIlG9uD6Dxw+3pws5AEM3gYTfr+V5XPWr7RB3oNsmhzH5EgHRh4w7L4eM4mjN0gUC/xwd2hf4IFmUObv/yc8XnQCcDNSG71CMzNIyKAOQWjilG5AkSIJzZSgPAaTn81/kfxRASBEnkqQAyXIYj6wHYDsSfVTaVTavi528Sz2/D4vLeUsHHhqVNL6HfyWSuh8TTz4PML7ZvfDOShW2s/qvdqMT3xMVEpb3Lzk1EtJ8gG7B0z4tvtJSbmsjFkRwCpJff/+N/wpnnl5n4TnCbFltx2XYdL/mjrVe2U0W20X4iepKn7tBLXQY/YZFL6bTvO5/Af1hdPnh71pelrEFXeYDuPc8dVNOq/BWQ4luMGq35DZobG4fBVV7biuPVh7bMT8aBbm9Q/5zT77nRt77vTU0x/zsV8jNSQAAmnE459zLjebVdn9iyozP+D9j4Vbvicv3v+rf7X+ZWcDBRII/p2aJhOoXSGEb4o0WZpFjAAI5OKGlU4V8CCTQKGpo0y2GHcwGRq5I5MKL8iM7v7IrE7RgswZHyPnFegQl/QzMHRsrKWhCSESE/aQKDoLar251SBmYyUtfRNEPgMhAxg0Vs+2mgqEyASDNA2M0Qbm2q+QoQk1AYGGFvUZTBlfxUCPoFL+vFh7edbOYFhNXExXyZiYLSEkpdnUTLN2By+/+NVFdDquZmyixbSJtdNECFJXOiFlYFZLH3LQARE+JT5pz1bgkanuqoy1W4MgCMsfMRAAAAAA') format('woff2'); }
-  ]]></style>
-  <text x="0" y="20" font-family="HeadFont, monospace" font-size="15" fill="#111">stats</text>
-  <line x1="59.0" y1="15" x2="638" y2="15" stroke="#ccc" stroke-width="1"/>
-</svg>
