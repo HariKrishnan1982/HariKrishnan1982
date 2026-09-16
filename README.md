@@ -96,7 +96,6 @@ building, breaking, and defending systems.
 [ security ]
   Burp Suite · OWASP Top 10 · VAPT · Manual recon
 ```
-
 ---
 
 ### `root@P4tchW0rk:~$ ls -la ./projects/`
@@ -133,9 +132,7 @@ drwxr-xr-x  Roll_                       CSS-based project
 
 mindset: learn -> build -> break -> defend -> repeat
 ```
-
 ---
-
 ### `root@P4tchW0rk:~$ cat contact.txt`
 <div align="center">
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
