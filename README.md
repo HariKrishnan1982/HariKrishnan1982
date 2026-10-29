@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=root%40P4tchW0rk%3A~%24+whoami;HariKrishnan+aka+P4tchW0rk;root%40P4tchW0rk%3A~%24+cat+about.txt" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=root%40P4tchDev%3A~%24+whoami;HariKrishnan+aka+P4tchDev;root%40P4tchDev%3A~%24+cat+about.txt" />
 </div>
 
 <br>
@@ -36,7 +36,7 @@
 <td valign="top" width="65%">
 
 ```
-HariKrishnan ~ P4tchW0rk
+HariKrishnan ~ P4tchDev
 -------------------------------------------
 OS ..................... Kali Linux (Live USB Persistence)
 Rig ..................... i3 7th Gen · 12GB RAM · 256GB SSD
@@ -64,7 +64,7 @@ Twitter .................. @harikrishnan
 
 ---
 
-### `root@P4tchW0rk:~$ cat mission.txt`
+### `root@P4tchDev:~$ cat mission.txt`
 
 ```
 CSE student specializing in Cyber Security, focused on
@@ -78,7 +78,7 @@ building, breaking, and defending systems.
 
 ---
 
-### `root@P4tchW0rk:~$ ./tech_stack.sh`
+### `root@P4tchDev:~$ ./tech_stack.sh`
 
 ```
 [ languages ]
@@ -98,7 +98,7 @@ building, breaking, and defending systems.
 ```
 ---
 
-### `root@P4tchW0rk:~$ ls -la ./projects/`
+### `root@P4tchDev:~$ ls -la ./projects/`
 
 ```
 drwxr-xr-x  Cookie_Autopsy              Chrome ext — cookie privacy classifier & risk scoring
@@ -113,7 +113,7 @@ drwxr-xr-x  Roll_                       CSS-based project
 
 ---
 
-### `root@P4tchW0rk:~$ git log --graph --oneline --all`
+### `root@P4tchDev:~$ git log --graph --oneline --all`
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HariKrishnan1982&theme=tokyo-night&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%"/>
@@ -121,7 +121,7 @@ drwxr-xr-x  Roll_                       CSS-based project
 
 ---
 
-### `root@P4tchW0rk:~$ cat training_log.txt`
+### `root@P4tchDev:~$ cat training_log.txt`
 
 ```
 [x] Strengthening blue team & SOC foundations
@@ -133,7 +133,7 @@ drwxr-xr-x  Roll_                       CSS-based project
 mindset: learn -> build -> break -> defend -> repeat
 ```
 ---
-### `root@P4tchW0rk:~$ cat contact.txt`
+### `root@P4tchDev:~$ cat contact.txt`
 <div align="center">
   <a href="https://www.linkedin.com/in/varun-r-9b6417331/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
@@ -153,5 +153,5 @@ mindset: learn -> build -> break -> defend -> repeat
 <img src="https://komarev.com/ghpvc/?username=HariKrishnan1982&style=flat-square&color=00FF41" />
 </div>
 <div align="center">
-<sub>root@P4tchW0rk:~$ <span>█</span></sub>
+<sub>root@P4tchDev:~$ <span>█</span></sub>
 </div>
